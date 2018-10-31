@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on TG</title>
-    <link>https://example.com/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on TG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Visiting Researcher at the University of Duisburg-Essen</title>
-      <link>https://example.com/posts/guest_ude/</link>
+      <link>/posts/guest_ude/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/guest_ude/</guid>
+      <guid>/posts/guest_ude/</guid>
       <description>As of October 1, I am a visiting researcher at the Institute of Political Science at the University of Duisburg-Essen. There, I am affiliated with the Chair of Empirical Political Science.
 I am looking forward to working with Prof. Dr. Achim Goerres and his team, to learning from teaching in a new academic environment, and to meeting new colleagues across the faculty of social sciences.</description>
     </item>
     
     <item>
       <title>Welcome to my personal webpage and blog</title>
-      <link>https://example.com/posts/welcome/</link>
+      <link>/posts/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/welcome/</guid>
+      <guid>/posts/welcome/</guid>
       <description>Few pieces of advice have been imparted upon me more frequently than that I should finally put together a professional webpage. After feeling guilty about not heeding my mentors&amp;rsquo; and colleagues&amp;rsquo; advice for years, I have now finally managed to set up this website and I am excited to see how it will develop. I am hoping to keep this space updated with regular posts about ongoing research projects, teaching activities, talks, events, and other news.</description>
     </item>
     

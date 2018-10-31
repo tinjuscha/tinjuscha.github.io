@@ -3,57 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/projects/prejudice/</loc>
+    <loc>/projects/prejudice/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/contact/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/projects/dissertation/</loc>
+    <loc>/projects/dissertation/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/impressum/</loc>
+    <loc>/impressum/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>/posts/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/projects/</loc>
+    <loc>/projects/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/teaching/</loc>
+    <loc>/teaching/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/posts/guest_ude/</loc>
+    <loc>/posts/guest_ude/</loc>
   </url>
   
   <url>
-    <loc>https://example.com/posts/welcome/</loc>
+    <loc>/posts/welcome/</loc>
   </url>
   
 </urlset>
