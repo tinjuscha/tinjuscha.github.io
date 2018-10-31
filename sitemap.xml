@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://tinjuscha.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tinjuscha.github.io/projects/prejudice/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tinjuscha.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tinjuscha.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tinjuscha.github.io/projects/dissertation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tinjuscha.github.io/impressum/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tinjuscha.github.io/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tinjuscha.github.io/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tinjuscha.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tinjuscha.github.io/teaching/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tinjuscha.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tinjuscha.github.io/posts/guest_ude/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tinjuscha.github.io/posts/welcome/</loc>
+  </url>
+  
+</urlset>
