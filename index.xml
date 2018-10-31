@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tina Goldschmidt on TG</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Tina Goldschmidt on TG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anti-immigrant prejudice through the lens of public discourses</title>
+      <link>https://example.com/projects/prejudice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/prejudice/</guid>
+      <description>Toward the end of my Ph.D., I had the opportunity to co-apply for research funding from FORTE &amp;mdash; the Swedish Research Council for Health, Working Life and Welfare, together with a wonderful group of researchers at Umeå University. Fortunately, our research program entitled &amp;ldquo;The Evolution of Prejudice&amp;rdquo; (PI: Mikael Hjerm) and with it, the sub-project for which I co-applied were selected for funding. They both began in the fall of 2017 and run for 3+3 years (pending a positive mid-term review).</description>
+    </item>
+    
+    <item>
+      <title>Immigration, social cohesion, and the welfare state</title>
+      <link>https://example.com/projects/dissertation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/projects/dissertation/</guid>
+      <description>In June 2017, I defended my Ph.D. thesis in sociology at Stockholm University. My dissertation research was supervised by Prof. Dr. Jens Rydgren and Prof. Dr. Martin Hällsten.
+Summary A contentiously debated hypothesis states that native majorities are unwilling to support the provision of government-funded welfare to those whom they do not consider to be part of their own sociocultural ingroup, especially when sociocultural or ethnic otherness and disadvantage overlap.</description>
+    </item>
+    
+    <item>
+      <title>Visiting Researcher at the University of Duisburg-Essen</title>
+      <link>https://example.com/posts/guest_ude/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/guest_ude/</guid>
+      <description>As of October 1, I am a visiting researcher at the Institute of Political Science at the University of Duisburg-Essen. There, I am affiliated with the Chair of Empirical Political Science.
+I am looking forward to working with Prof. Dr. Achim Goerres and his team, to learning from teaching in a new academic environment, and to meeting new colleagues across the faculty of social sciences.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my personal webpage and blog</title>
+      <link>https://example.com/posts/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/welcome/</guid>
+      <description>Few pieces of advice have been imparted upon me more frequently than that I should finally put together a professional webpage. After feeling guilty about not heeding my mentors&amp;rsquo; and colleagues&amp;rsquo; advice for years, I have now finally managed to set up this website and I am excited to see how it will develop. I am hoping to keep this space updated with regular posts about ongoing research projects, teaching activities, talks, events, and other news.</description>
+    </item>
+    
+  </channel>
+</rss>
