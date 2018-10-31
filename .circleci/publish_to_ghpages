@@ -19,7 +19,7 @@ echo "Removing existing files"
 rm -rf public/*
 
 echo "Generating site"
-hugo --config ./config.toml
+hugo --config ./config.toml -b https://tinjuscha.github.io
 
 echo "Copying circleCI config"
 cp -R .circleci public/
